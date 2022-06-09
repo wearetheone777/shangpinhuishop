@@ -98,7 +98,7 @@ export default [{
         },
     },
     {
-        path: "*",
+        path: "/",
         redirect: "/Home", //一上来就展示首页
     },
     {
