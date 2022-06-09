@@ -19,23 +19,23 @@ npm run serve
 ```
 ## 技术选型
 
-![image-20220608150139753](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608150139753.png)
+![image-20220608150139753](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116053.png)
 
 ## 前端路由
 
-![image-20220608150232527](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608150232527.png)
+![image-20220608150232527](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116055.png)
 
 ## API接口
 
-![image-20220608150314003](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608150314003.png)
+![image-20220608150314003](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116056.png)
 
 ## 目录介绍
 
-![image-20220608150502494](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608150502494.png)
+![image-20220608150502494](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116057.png)
 
 ## header组件
 
-![image-20220608151719241](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608151719241.png)
+![image-20220608151719241](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116058.png)
 
 使用声明式路由导航与编程式路由导航
 
@@ -71,7 +71,7 @@ VueRouter.prototype.replace = function (location, onComplete, onAbort) {
 
 ## Footer组件
 
-![image-20220608152337887](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608152337887.png)
+![image-20220608152337887](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116059.png)
 
 利用路由元信息meta配置和v-show控制footer组件的显示和隐藏在
 
@@ -96,11 +96,11 @@ VueRouter.prototype.replace = function (location, onComplete, onAbort) {
 
 ## Home组件
 
-![image-20220608152939577](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608152939577.png)
+![image-20220608152939577](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116060.png)
 
 子组件
 
-![image-20220608153006927](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608153006927.png)
+![image-20220608153006927](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116061.png)
 
 ## 封装ajax请求模块
 
@@ -236,22 +236,22 @@ export const reqFloors = ()=> mockAjax.get('/floors')
 6.排序搜索
 7.自定义分页组件
 
-![image-20220608155022983](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155022983.png)
+![image-20220608155022983](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116062.png)
 
-![image-20220608155044667](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155044667.png)
+![image-20220608155044667](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116063.png)
 
 ## Detail路由
 
 1)图片放大镜效果
 2)小图轮播
 
-![image-20220608155212247](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155212247.png)
+![image-20220608155212247](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116064.png)
 
 ## AddCartSuccess路由
 
 区别使用sessionStorage与localStorage
 
-![image-20220608155413517](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155413517.png)
+![image-20220608155413517](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116065.png)
 
 ## ShopCart路由
 
@@ -260,16 +260,16 @@ export const reqFloors = ()=> mockAjax.get('/floors')
 3)不使用v-model监控用户输入
 4)async / await / Promise.all() 的使用
 
-![image-20220608155635581](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155635581.png)
+![image-20220608155635581](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116066.png)
 
 ## 注册与登陆路由
 
 1)注册/登陆请求后组件的响应处理
 2)登陆后自动携带token数据
 
-![image-20220608155847993](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155847993.png)
+![image-20220608155847993](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116067.png)
 
-![image-20220608155904866](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220608155904866.png)
+![image-20220608155904866](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116068.png)
 
 测试用的账号和密码:
 
@@ -291,25 +291,25 @@ f.只有从支付界面, 才能跳转到支付成功的界面
 2)支付二维码
 3)获取订单状态
 
-![image-20220609105837105](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609105837105.png)
+![image-20220609105837105](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116069.png)
 
-![image-20220609105953404](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609105953404.png)
+![image-20220609105953404](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116070.png)
 
-![image-20220609110004433](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609110004433.png)
+![image-20220609110004433](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116071.png)
 
 ## 支付组件
 
-![image-20220609110322172](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609110322172.png)
+![image-20220609110322172](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116072.png)
 
-![image-20220609110333949](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609110333949.png)
+![image-20220609110333949](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116073.png)
 
 ## 支付成功组件
 
-![image-20220609110358429](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609110358429.png)
+![image-20220609110358429](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116074.png)
 
 ## 我的订单组件
 
-![image-20220609110438770](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609110438770.png)
+![image-20220609110438770](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116075.png)
 
 ## 图片懒加载
 
@@ -329,4 +329,4 @@ f.只有从支付界面, 才能跳转到支付成功的界面
 (3)如果校验失败, 以界面红色文本的形式提示, 而不是用alert的形式
 (4)校验的时机, 除了点击提交时, 还有输入过程中实时进行校验
 
-![image-20220609110707175](C:/Users/Lenovo/AppData/Roaming/Typora/typora-user-images/image-20220609110707175.png)
+![image-20220609110707175](https://150-9155-1312350958.cos.ap-chengdu.myqcloud.com/img202206091116077.png)
