@@ -89,9 +89,3 @@ export const reqPayStatus = (orderId) => requests({ url: `/payment/weixin/queryP
 //api/order/auth/{page}/{limit}  get 
 export const reqMyOrderList = (page, limit) => requests({ url: `/order/auth/${page}/${limit}`, method: 'get' });
 
-'use strict'
-module.exports = {
-  NODE_ENV: '"production"',
-  API_HOST: '"/backend/"'
-}
-
