@@ -8,7 +8,7 @@ import 'nprogress/nprogress.css';
 import store from '@/store';
 // 利用axios的creat方法创建一个axios实例，requests就是axios只不过要配置一下
 const requests = axios.create({
-    baseURL: '/api', //基础路径发送请求的时候就不用配置api了
+    baseURL: '/backend', //基础路径发送请求的时候就不用配置api了
     timeout: 5000, //代表超时时间5s
 });
 
